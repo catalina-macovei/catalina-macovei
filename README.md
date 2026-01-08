@@ -27,4 +27,4 @@ I share tech posts and lessons I've learned. Check out my blog for tutorials and
 - 📘 [Medium](https://medium.com/@cmacovei01)
 - ✉️ [LinkedIn](https://www.linkedin.com/in/catalina-macovei-ba9382252/)
 
-<p align="center"><em>Made with ❤️ and ☕ by Catalina.</em></p>
+<p align="center"><em>Created with ❤️ and ☕ by Catalina.</em></p>
