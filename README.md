@@ -16,7 +16,7 @@ I'm a lifelong learner at heart who loves sharing information, learning new skil
 
 ## ✍️ Writing & Learning
 
-I share tech posts and lessons about my experience. Check out my blog for tutorials and insights. [Blog](https://catacodes.org/blogs) 
+I share tech posts and lessons I've learned. Check out my blog for tutorials and insights. [Blog](https://catacodes.org/blogs) 
 
 ---
 
