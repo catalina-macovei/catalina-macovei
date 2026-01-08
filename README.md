@@ -10,7 +10,7 @@ I'm a lifelong learner at heart who loves sharing information, learning new skil
 
 **Languages:** Python · JavaScript · SQL  
 **Cloud & DevOps:** AWS · Docker · Linux  
-**Version Control:** Git :contentReference[oaicite:4]{index=4}
+**Version Control:** Git 
 
 ---
 
